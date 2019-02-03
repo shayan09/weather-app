@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was created in React to make API calls and return real time weather conditions. 
+
+### [View the project here](http://weather-forecast-app.com.s3-website-us-west-1.amazonaws.com/)
 
 ## Available Scripts
 
