@@ -1,8 +1,10 @@
 ## This project was created in React to make API calls and return real time weather conditions. 
 
-### [View the project here](http://weather-forecast-app.com.s3-website-us-west-1.amazonaws.com/)
+#### [View the project here](http://weather-forecast-app.com.s3-website-us-west-1.amazonaws.com/)
 
-## Available Scripts
+![Screenshot](./weather.png)
+
+### Available Scripts
 
 In the project directory, you can run:
 
